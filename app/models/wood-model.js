@@ -70,7 +70,7 @@ Wood.updateById = (id, wood, result) => {
       }
 
       if (res.affectedRows == 0) {
-        // not found Tutorial with the id
+        // not found Wood with the id
         result({ kind: "not_found" }, null);
         return;
       }
@@ -90,7 +90,7 @@ Wood.remove = (id, result) => {
     }
 
     if (res.affectedRows == 0) {
-      // not found Tutorial with the id
+      // not found Wood with the id
       result({ kind: "not_found" }, null);
       return;
     }
