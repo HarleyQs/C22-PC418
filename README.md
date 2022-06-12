@@ -1,8 +1,8 @@
-# NodeJs REST API with Express & SQL
+# NodeJs REST API with Express & MySQL
 
 ## Description
 
-Rest Apis for creating, retrieving, updating, deleting and searching wood type.
+Rest Apis for creating, retrieving, updating, deleting and searching wood type, integrate with database MySQL.
 
 ## Project setup
 ```
