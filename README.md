@@ -28,4 +28,5 @@ node server.js
 | GET     | /files/[filename] | download a File                |
 
 ### POST
+- sample call:
 ![Example POST call](https://storage.googleapis.com/c22-pc418-bucket/postupload2.PNG)
