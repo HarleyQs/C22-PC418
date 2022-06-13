@@ -26,3 +26,6 @@ node server.js
 | POST    | /upload           | upload a File                  |
 | GET     | /files            | get List of Files (name & url) |
 | GET     | /files/[filename] | download a File                |
+
+### POST
+![Example POST call](https://storage.googleapis.com/c22-pc418-bucket/postupload2.PNG)
