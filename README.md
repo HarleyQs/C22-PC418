@@ -28,5 +28,12 @@ node server.js
 | GET     | /files/[filename] | download a File                |
 
 ### POST
-- sample call:
+- upload file image:
 ![Example POST call](https://storage.googleapis.com/c22-pc418-bucket/postupload2.PNG)
+
+### GET
+- get List of Files (name & url)
+![Example GET call](https://storage.googleapis.com/c22-pc418-bucket/getListofFilesname_and_url.PNG)
+
+- download a File
+![Example GET call](https://storage.googleapis.com/c22-pc418-bucket/download-image-file.PNG)
